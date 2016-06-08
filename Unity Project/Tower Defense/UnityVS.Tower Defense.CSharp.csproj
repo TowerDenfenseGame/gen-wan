@@ -87,6 +87,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\2D Grid Based AI\Scripts\EnemyAStar.cs" />
+    <Compile Include="Assets\2D Grid Based AI\Scripts\GameManager.cs" />
+    <Compile Include="Assets\2D Grid Based AI\Scripts\MyPathNode.cs" />
+    <Compile Include="Assets\2D Grid Based AI\Scripts\PriorityQueue.cs" />
+    <Compile Include="Assets\2D Grid Based AI\Scripts\SpatialAStar.cs" />
+    <Compile Include="Assets\2D Grid Based AI\Scripts\TurnToWall.cs" />
     <Compile Include="Assets\Scripts\MoveDestination.cs" />
   </ItemGroup>
   <ItemGroup>
